@@ -1,0 +1,15 @@
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\__Generated\DefendTheArtifactPrimalDinoDB
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\__Generated\DefendTheArtifactPrimalMissionDB
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\__Generated\DefendTheArtifactPrimalStructureDB
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Data\DinoWaveData_RexOnlyTest
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\DefendTheArtifact
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Allo_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Carno_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Ptero_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_RockGolem_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Scorpion_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Titanosaur_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\Artifact_Yeti_Character_BP
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Dino\DinoAttackStateMinionsGorilla_Artifact
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\Helper\ArrayHelper
+Projects\ShooterGame\Mods\DefendTheArtifact\Saved\Cooked\Windows\ShooterGame\Mods\DefendTheArtifact\Content\TestMapArea_DefendTheArtifact

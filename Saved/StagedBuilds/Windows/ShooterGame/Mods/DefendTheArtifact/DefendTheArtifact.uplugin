@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "CF73D5E14151735CA3CA4A89969024EB",
+	"FriendlyName": "DefendTheArtifact",
+	"Description": "Add your summary here",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/defend-the-artifact",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"CfUgcId": 1625502,
+	"AutoCookingType": "PCOnly"
+}

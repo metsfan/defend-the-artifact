@@ -1,0 +1,1 @@
+ShooterGame/Mods/DefendTheArtifact/DefendTheArtifact.uplugin	2026-08-01T01:42:44.354Z
